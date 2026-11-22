@@ -1,5 +1,3 @@
-#include<stdio.h>
-#include<stdlib.h>
 #include<string.h>
 
 typedef struct student{
@@ -26,7 +24,7 @@ void sort_by_rollno(sdb *ptr);
 void del_by_roll(sdb **ptr); 
 void del_by_name(sdb **ptr);
 
-void search_by_rollno(sdb *ptr); 
-void search_by_name(sdb *ptr);
-void search_by_percentage(sdb *ptr);
+void modify_record(sdb *p);
+void print_one_record(sdb *p);
+
 
