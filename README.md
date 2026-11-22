@@ -8,7 +8,7 @@ Record Management: Supports adding, displaying, searching, modifying, and deleti
 Flexible Search: Search and modify records using Roll Number, Name, or Percentage.
 Sorting: Organizes records alphabetically by Name or in descending order of Percentage.
 Linked List Operations: Implements in-place list reversal and deletion of all records.
-Data Persistence: Uses binary file handling to save and retrieve student records from `student.dat`.
+Data Persistence: Uses binary file handling to save and retrieve student records from `student.dat`. 
 Memory Management: Uses `malloc()` and `free()` for dynamic memory allocation and proper deallocation.
 
 Technologies Used: C Programming, Singly Linked Lists, Pointers, Structures, Dynamic Memory Allocation, Binary File Handling, Searching, Sorting, GCC, and Makefile.
